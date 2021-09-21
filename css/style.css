@@ -1,0 +1,62 @@
+body{
+
+    background-color: black;
+    background: url(https://images.pathe-thuis.nl/23533_1920x1080.jpg);
+    background-size:100%;
+    
+    
+
+
+}
+
+h1{
+
+    margin-top: 100px;
+    font-family: georgia, serif;
+    font-weight: bold;
+    color: white;
+    letter-spacing: 5px;
+    font-size: 90px;
+    text-align: center;
+    
+
+}
+
+
+h2{
+
+    margin-top: 10px;
+    font-family: 'Times New Roman', serif;
+    font-weight: lighter;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 40px;
+
+    
+
+}
+
+p{
+
+    margin-top: 90px;
+    margin-bottom: 90px;
+    margin-left: 30pc;
+    margin-right: 30pc;
+
+    font-family: 'georgia', serif;
+    font-weight: lighter;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 20px;
+    text-align: center;
+    text-align: start;
+    border: 30px black;
+    background-color: black;
+    text-align: center;
+    
+
+
+}
+        
